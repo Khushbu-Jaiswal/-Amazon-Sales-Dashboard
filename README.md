@@ -1,4 +1,4 @@
-# -Amazon-Sales-Dashboard
+# Amazon-Sales-Dashboard
 
 Hello !
 I am so excited to share my latest Tableau Dashboard on Amazon Sales !
